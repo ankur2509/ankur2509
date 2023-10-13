@@ -1,26 +1,41 @@
-Hello, fellow developers! Welcome to my GitHub profile. I'm Ankur, a third-year B.Tech Computer Science Engineering (CSE) student, and I'm passionate about coding and technology. Here, you'll find an insight into my coding journey and the projects I'm working on.
+![logo](https://github.com/ankur2509/ankur2509/blob/main/banner.png)
 
-## About Me
-- *Name*: Ankur
-- *Email*: [vermaankur0600@gmail.com](mailto:vermaankur0600@gmail.com)
-- *Major Languages*: Java, Python
-- *Current Focus*: Learning Web Development
+<h1 align="center">Hi 👋, I'm Ankur</h1>
+<h3 align="center">A passionate Web developer and programmer</h3>
 
-## Skills and Interests
-I specialize in Java and Data Structures and Algorithms (DSA), and Python. My primary interest lies in solving complex problems and creating efficient, elegant solutions. In addition, I am on a journey to master the art of web development and explore various other fascinating technologies.
+<img align="right" alt="coding" width ="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
 
-## Repositories
-I'm actively engaged in various repositories, including:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur2509&label=Profile%20views&color=0e75b6&style=flat" alt="ankur2509" /> </p>
 
-- *Java Basics*: A repository dedicated to the fundamentals of Java, suitable for learners and enthusiasts looking to grasp the language.
-- *Web Development Projects*: You'll find my foray into web development, featuring projects using HTML, CSS, JavaScript, and possibly frameworks like React or Vue.
-- *Exploring Exciting Technologies*: Stay tuned for more repositories as I delve into new technologies and tackle exciting projects.
+<p align="left"> <a href="https://twitter.com/ankur0925" target="blank"><img src="https://img.shields.io/twitter/follow/ankur0925?logo=twitter&style=for-the-badge" alt="ankur0925" /></a> </p>
 
-Feel free to explore my repositories, offer feedback, or collaborate on interesting projects. I'm eager to learn and grow as a developer with the support and insights from the community.
+- 🔭 I’m currently studying **B.tech in Computer Science and Engineering from @CGC Jhanjeri**
 
-## Connect with Me
-I'm always open to connecting with fellow developers to share knowledge and collaborate on interesting projects. You can reach out to me via email, or connect with me on LinkedIn, where I often share my thoughts, experiences, and insights.
+- 🌱 I’m currently learning **Web Development and DSA in Java**
 
-- *LinkedIn*: [Connect with me on LinkedIn](https://www.linkedin.com/in/ankur-53872b291)
+- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript, MySQL**
 
-Thank you for visiting my GitHub profile. Let's join forces, learn, and create awesome things together! 🚀
+- 📫 How to reach me **vermankur0600@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TWSR4emdSlBiHes7ZcuLKgz5bgayd62s/view?usp=drive_link](https://drive.google.com/file/d/1TWSR4emdSlBiHes7ZcuLKgz5bgayd62s/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ankur0925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur0925" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankur-53872b291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur-53872b291" height="30" width="40" /></a>
+<a href="https://instagram.com/a_.n_.k_.u_.r__.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_.n_.k_.u_.r__.v" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vermaankur0600" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vermaankur0600" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vermaankur0600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vermaankur0600" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankur_2509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankur_2509" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vermaankgguo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vermaankgguo" height="30" width="40" /></a>
+<a href="https://discord.gg/Ankur#2249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ankur#2249" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur2509&show_icons=true&locale=en&layout=compact" alt="ankur2509" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur2509&show_icons=true&locale=en" alt="ankur2509" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur2509&" alt="ankur2509" /></p>
