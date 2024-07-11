@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ankur</h1>
 <h3 align="center">A passionate Web developer and programmer</h3>
 
-<img align="right" alt="coding" width ="400" src=""> 
+<img align="right" alt="coding" width ="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animations--126663808259169690%2F&psig=AOvVaw1Da0kgar-zwXZCBt_FLqKU&ust=1720767277222000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPj9xOiznocDFQAAAAAdAAAAABAR"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur2509&label=Profile%20views&color=0e75b6&style=flat" alt="ankur2509" /> </p>
 
