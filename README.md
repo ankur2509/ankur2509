@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ankur</h1>
 <h3 align="center">A passionate Web developer and programmer</h3>
 
-<img align="right" alt="coding" width ="400" src="[(https://www.google.com/url?sa=i&url=https%3A%2F%2Fyourbutlerspantry.com%2F%3Fw%3Dfunny-gifs-coding-gif-ff-xEJ39XTd&psig=AOvVaw1Da0kgar-zwXZCBt_FLqKU&ust=1720767277222000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPj9xOiznocDFQAAAAAdAAAAABAZ)](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
+<img align="right" alt="coding" width ="400" src="[https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif](https://in.pinterest.com/pin/london-animated-creative-studio-life-in-gifs-on-behance--346988346288449589/)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur2509&label=Profile%20views&color=0e75b6&style=flat" alt="ankur2509" /> </p>
 
